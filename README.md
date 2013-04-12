@@ -1,0 +1,1 @@
+This code was initially obtained from http://static.springsource.com/projects/tc-server/6.0/getstart/tgsdevtut.html. Some changes have been applied to the original source.  
